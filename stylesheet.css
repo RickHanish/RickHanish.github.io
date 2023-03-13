@@ -37,6 +37,7 @@ html {
     flex-direction: column;
     row-gap: 0.8rem;
     width: calc(50%);
+    margin-bottom: 10;
 }
 
 .blurb {
@@ -48,14 +49,28 @@ h2.name_header {
     text-align: center;
 }
 
-.links, .classes {
+.links {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
   
-    column-gap: 1.2rem;
-    row-gap: 1.2rem;
+    row-gap: 3rem;
     margin: 1.2rem 0;
     width: calc(100%);
+}
+
+.school-card {
+    margin: 1rem;
+}
+
+.classes {
+    text-align:left;
+}
+
+.semester_classes {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
 
