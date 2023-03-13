@@ -28,6 +28,38 @@ html {
 }
 
 .link_item:hover {
-    color: #990000;
+    background-color: #ff6666;
+}
+
+.bio {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 0.8rem;
+    margin: 5rem;
+}
+
+.blurb {
+    text-align: justify;
+}
+
+h2.name_header {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.links, .classes {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+  
+    column-gap: 1.2rem;
+    row-gap: 1.2rem;
+    margin: 1.2rem 0;
 }
 
