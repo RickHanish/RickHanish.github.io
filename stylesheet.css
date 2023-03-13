@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fffdfb;
+    color: #000;
+}
+
+html {
+    scroll-behavior: auto;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 0.8rem;
+    row-gap: 0.8rem;
+    height: 100%;
+}
+
+.link_item {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    column-gap: 0.3rem;
+    cursor: pointer;
+}
+
+.link_item:hover {
+    color: #990000;
+}
+
