@@ -56,8 +56,6 @@ h2.name_header {
     column-gap: 1.2rem;
     row-gap: 1.2rem;
     margin: 1.2rem 0;
-}
-
-.home-item {
     width: calc(100%);
 }
+
