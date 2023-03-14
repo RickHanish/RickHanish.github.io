@@ -113,3 +113,8 @@ h3.semester_title {
     row-gap: 0.8rem;
     height: 100%;
 }
+
+.semester_classes {
+    margin: .4rem 0rem .4rem;
+
+}
