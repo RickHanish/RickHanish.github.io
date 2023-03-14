@@ -96,6 +96,8 @@ h6.life_head {
     font-size: large;
     font-weight: bold;
     text-align: center;
+    margin-top: .4rem;
+    margin-bottom: .4rem;
 }
 
 h2.section_head {
