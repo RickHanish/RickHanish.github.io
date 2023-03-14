@@ -77,3 +77,11 @@ h2.name_header {
     align-items: center;
 }
 
+.class_title {
+    font-weight: bold;
+}
+
+.class_prof {
+    font-style: italic;
+    padding: 0.2rem 1rem;
+}
