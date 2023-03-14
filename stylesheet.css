@@ -93,7 +93,7 @@ h3.semester_title {
 h6.life_header {
     font-size: large;
     font-weight: bold;
-    text-align: inherit;
+    text-align: center;
 }
 
 h2.section_head {
@@ -115,6 +115,5 @@ h3.semester_title {
 }
 
 .semester_classes {
-    margin: .4rem 0rem .4rem;
-
+    margin: .4rem 0rem;
 }
