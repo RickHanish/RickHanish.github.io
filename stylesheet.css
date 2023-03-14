@@ -82,3 +82,15 @@ h2.name_header {
     padding: 0.2rem 1rem;
 }
 
+h6.life_header {
+    font-size: large;
+    font-weight: bold;
+}
+
+h2.section_head {
+    text-align: center;
+}
+
+h3.semester_title {
+    text-align: center;
+}
