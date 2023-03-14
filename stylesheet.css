@@ -37,7 +37,10 @@ html {
     flex-direction: column;
     row-gap: 0.8rem;
     width: calc(50%);
-    margin-bottom: 10;
+    margin-bottom: 1rem;
+    width: 70rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .blurb {
@@ -64,7 +67,7 @@ h2.name_header {
 }
 
 .classes {
-    text-align:left;
+    text-align: center;
 }
 
 .semester_classes {
