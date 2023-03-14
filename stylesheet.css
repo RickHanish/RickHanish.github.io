@@ -14,7 +14,7 @@ html {
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    column-gap: 0.8rem;
+    column-gap: 2rem;
     row-gap: 0.8rem;
     height: 100%;
 }
@@ -89,6 +89,7 @@ h3.semester_title {
 h6.life_header {
     font-size: large;
     font-weight: bold;
+    text-align: inherit;
 }
 
 h2.section_head {
@@ -97,4 +98,14 @@ h2.section_head {
 
 h3.semester_title {
     text-align: center;
+}
+
+.life_pics {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 0.8rem;
+    row-gap: 0.8rem;
+    height: 100%;
 }
