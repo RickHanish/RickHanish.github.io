@@ -86,6 +86,10 @@ h3.semester_title {
     padding: 0.2rem 1rem;
 }
 
+#last_card {
+    margin-bottom: 5rem;
+}
+
 h6.life_header {
     font-size: large;
     font-weight: bold;
