@@ -29,6 +29,7 @@ html {
 
 .link_item:hover {
     background-color: #ff6666;
+    color: #00ff00;
 }
 
 .bio {
